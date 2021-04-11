@@ -1,4 +1,7 @@
-var nome = 'Rafael Galleani';
+var lista = ['maça', 'pêra', 'laranja'];
+console.log(lista[0]);
+
+/* var nome = 'Rafael Galleani';
 var idade = 29;
 var frase = 'Japão é o melhor time do mundo';
 
@@ -8,4 +11,4 @@ console.log(nome);
 console.log(idade);
 //console.log(frase.replace('Japão', 'Brasil'));
 //console.log(frase.toUpperCase());
-console.log(frase.toLowerCase());
+console.log(frase.toLowerCase()); */
