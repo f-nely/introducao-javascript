@@ -1,5 +1,6 @@
 var lista = ['maça', 'pêra', 'laranja'];
 lista.push('uva'); // adiciona elemento
+lista.pop(); // removendo último elemento
 console.log(lista);
 
 /* var nome = 'Rafael Galleani';
