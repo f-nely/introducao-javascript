@@ -1,7 +1,7 @@
 var lista = ['maça', 'pêra', 'laranja'];
 lista.push('uva'); // adiciona elemento
 lista.pop(); // removendo último elemento
-console.log(lista);
+console.log(lista.length); // tamanho do array
 
 /* var nome = 'Rafael Galleani';
 var idade = 29;
