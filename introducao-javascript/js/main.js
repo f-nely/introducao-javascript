@@ -1,7 +1,13 @@
 
-for (var i = 10; i > 0; i--) {
+var day = new Date();
+console.log(day);
+console.log(day.getMonth() + 1);
+console.log(day.getHours());
+console.log(day.getMinutes());
+
+/* for (var i = 10; i > 0; i--) {
     console.log(i);
-}
+} */
 
 /* var j = 0;
 while (j <= 10) {
