@@ -1,10 +1,17 @@
 
-var idade = prompt('Qual a sua idade: ');
+
+var j = 0;
+while (j <= 10) {
+    console.log(j);
+    j++;
+}
+
+/* var idade = prompt('Qual a sua idade: ');
 if (idade >= 18) {
     console.log('Maior de idade: ');
 } else {
     console.log('Menor de idade: ');
-}
+} */
 
 /* var frutas = [{nome:'maça', cor:'vermelha'}, {nome:'uva', cor:'roxa'}];
 console.log(frutas);
