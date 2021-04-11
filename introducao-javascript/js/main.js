@@ -1,5 +1,6 @@
 var lista = ['maça', 'pêra', 'laranja'];
-console.log(lista[0]);
+lista.push('uva'); // adiciona elemento
+console.log(lista);
 
 /* var nome = 'Rafael Galleani';
 var idade = 29;
