@@ -1,6 +1,10 @@
 
-var fruta = {nome:'maça', cor:'vermelha'};
-console.log(fruta);
+var frutas = [{nome:'maça', cor:'vermelha'}, {nome:'uva', cor:'roxa'}];
+console.log(frutas);
+console.log(frutas[1].nome);
+
+/* var fruta = {nome:'maça', cor:'vermelha'};
+console.log(fruta.nome); */
 
 //var lista = ['maça', 'pêra', 'laranja'];
 //lista.push('uva'); // adiciona elemento
