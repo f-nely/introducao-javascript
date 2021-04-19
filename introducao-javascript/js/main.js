@@ -5,6 +5,12 @@ function soma(n1, n2) {
 
 console.log(soma(8, 20));
 
+function setReplace(frase, nome, novo_nome) {
+    return frase.replace(nome, novo_nome);
+}
+
+console.log(setReplace('Vai Japão!', 'Japão', 'Brasil'));
+
 /* var day = new Date();
 console.log(day);
 console.log(day.getMonth() + 1);
