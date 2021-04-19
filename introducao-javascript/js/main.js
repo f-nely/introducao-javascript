@@ -1,7 +1,11 @@
 
 function clicou() {
     //alert('Obrigado por clicar!');
-    document.getElementById('agradecimento').innerHTML = 'Obrigado por clicar!';
+    document.getElementById('agradecimento').innerHTML = '<b>Obrigado por clicar!</b>';
+}
+
+function redirecionar() {
+    window.open('https://glocallabs.academy/')
 }
 
 /* function soma(n1, n2) {
