@@ -1,9 +1,15 @@
 
-var day = new Date();
+function soma(n1, n2) {
+    return n1 + n2;
+}
+
+console.log(soma(8, 20));
+
+/* var day = new Date();
 console.log(day);
 console.log(day.getMonth() + 1);
 console.log(day.getHours());
-console.log(day.getMinutes());
+console.log(day.getMinutes()); */
 
 /* for (var i = 10; i > 0; i--) {
     console.log(i);
