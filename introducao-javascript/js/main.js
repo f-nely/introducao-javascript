@@ -1,6 +1,7 @@
 
 function clicou() {
-    alert('Obrigado por clicar!');
+    //alert('Obrigado por clicar!');
+    document.getElementById('agradecimento').innerHTML = 'Obrigado por clicar!';
 }
 
 /* function soma(n1, n2) {
